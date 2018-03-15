@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif; cursive; Times;
+	font-weight: 280;
+}
+.wrapper{
+	width: 960px;
+	height: 1170px;
+	margin: 10px;
+	padding: 10px;
+	background-color:#0C2132;
+}
+.headerleft1, .headerleft2, .headerright1, .headerright2, 
+.level1box, .icon, .boxheader,
+.level2box1, .level2box2, .level2box3,
+.bottomboxtext1, .bottomboxtext2 {
+	display: inline-block;
+}
+}
+.header{
+	width: 960px;
+	height: 100px;
+}
+.headerleft1{
+	margin: 30px 0px 0px 20px;
+	color:white;
+}
+.headerleft2{
+	margin-left: 5px;
+	color:#4194DD;
+}
+.headerright1{
+	margin-left: 100px;
+	padding:  10px;
+	color:#4194DD;
+}
+.headerright2{
+	margin: 5px;
+	padding: 15px;
+	color: white;
+}
+.maincontent{
+	width:945px;
+	height:990px;
+	margin: 10px;
+	margin-bottom: 0px;
+	background-color: white;
+}
+.main_img{
+	width: 910px;
+	height: 400px;
+	margin: 20px;
+}
+.level1box{
+	width: 285px;
+	height: 250px;
+	background-color: #2D68A3;
+	margin: 0px 0px 0px 20px;
+	vertical-align: top;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+}
+.boxheader{
+	color: white;
+	vertical-align: top;
+	margin-top: 15px;
+}
+.boxtext{
+	color: white;
+	padding: 10px;
+	font-size: 90%;
+}
+.button{
+	font-size: 120%;
+	margin: 15px 0px 0px 15px;
+	width: 180px;
+	height: 45px;
+	border-radius: 5px;
+	color: white;
+	background: linear-gradient(#5FABE6 50% ,#4091D8 50%);
+}
+.level2box1, .level2box2, .level2box3{
+	width: 285px;
+	height: 270px;
+	margin: 15px 0px 0px 20px;
+	vertical-align: top;
+}
+.level2box1text{
+	font-size: 125%;
+}
+.buildingpic{
+	width: 285px;
+	height: 180px;
+}
+.level2box2text1{
+	padding-top: 30px;
+	font-size: 90%
+}
+.level2box2text2{
+	padding-top: 15px;
+	color:#4194DD ;
+}
+.level2box3text1{
+	font-size: 140%;
+}
+.level2box3text2{
+	margin: 30px 0px;
+	padding: 15px 5px;
+	font-size: 100%;
+	background-color:#DDEDFD;
+}
+.level2box3text3{
+	padding-top: 20px;
+}
+.bottombox{
+	width: 945px;
+	height: 80px;
+	margin: 0px 10px 10px 10px;
+	background-color: #DDEDFD;
+	border-top: solid black;
+}
+.bottomtext1, .bottomtext2{
+	margin-top: 20px;
+	padding: 15px;
+    display: inline-block;
+	font-size: 80%;
+}
+.bottomtext1{
+	margin-left: 300px;
+	color: #B0D0EE;
+}
+.bottomtext2{
+	color: #4194DD;
+}
